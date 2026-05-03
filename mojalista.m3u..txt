@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://postimg.cc", Arena Sport 1
+#EXTINF:-1 tvg-logo="https://postimg.cc",Arena Sport 1
 http://centrotv.me
 
-#EXTINF:-1 tvg-logo="https://postimg.cc", Film Test
+#EXTINF:-1 tvg-logo="https://postimg.cc",Test Film Apple
 https://unified-streaming.com
+
