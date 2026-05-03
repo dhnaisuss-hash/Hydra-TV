@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-logo="https://postimg.cc",Arena Sport 1
 http://centrotv.me
 
-#EXTINF:-1 tvg-logo="https://postimg.cc",Test Film Apple
-https://unified-streaming.com
+#EXTINF:-1 tvg-logo="https://postimg.cc",Pink Premium
+http://centrotv.me
+
 
