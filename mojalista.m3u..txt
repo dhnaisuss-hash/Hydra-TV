@@ -6,7 +6,7 @@ http://centrotv.me
 http://centrotv.me
 
 #EXTINF:-1 tvg-logo="https://postimg.cc",TEST VIDEO (Apple)
-https://unified-streaming.com
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 
 
