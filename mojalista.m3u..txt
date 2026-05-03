@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://postimg.cc",Arena Sport 1
-http://centrotv.me
+#EXTINF:-1 tvg-logo="https://postimg.cc",Big Buck Bunny (TEST)
+https://mux.dev
 
-#EXTINF:-1 tvg-logo="https://postimg.cc",Pink Premium
-http://centrotv.me
+#EXTINF:-1 tvg-logo="https://postimg.cc",Apple BipBop (TEST)
+https://apple.com
 
-#EXTINF:-1 tvg-logo="https://postimg.cc",TEST VIDEO (Apple)
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 
 
