@@ -5,4 +5,7 @@ http://centrotv.me
 #EXTINF:-1 tvg-logo="https://postimg.cc",Pink Premium
 http://centrotv.me
 
+#EXTINF:-1 tvg-logo="https://postimg.cc",TEST VIDEO (Apple)
+https://unified-streaming.com
+
 
